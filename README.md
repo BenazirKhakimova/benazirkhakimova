@@ -18,5 +18,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 🐍 Watch my contribution graph get eaten by the snake
-![snake svg](https://github.com/benazirkhakimova/benazirkhakimova/blob/output/github-contribution-grid-snake.gif)
