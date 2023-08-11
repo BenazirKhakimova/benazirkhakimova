@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Hello, I'm Khakimova Benazir. I'm Front-End Developer <br>🍀I dream of working in Silicon Valley someday :)) <br> 📫 How to reach me: benazirdev1@gmail.com<br> 🎈 Fun fact: I want to be a digital nomad
+✨ Hello, I'm Khakimova Benazir. I'm Front-End Developer <br>🍀 I dream of working in Silicon Valley someday :)) <br> 📫 How to reach me: benazirdev1@gmail.com<br> 🎈 Fun fact: I want to be a digital nomad
 
 ## 🌐 Socials:
 <a href="mailto:benazirdev1@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='email'/></a>
